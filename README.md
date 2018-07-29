@@ -1,3 +1,4 @@
 # ZooKeeper-Curator
 zookeeper的curator客户端
-仅仅记录一些常用用法。
+
+#在学习时的代码上传以备工作时获取。
